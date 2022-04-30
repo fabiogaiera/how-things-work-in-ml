@@ -1,9 +1,6 @@
-# CSV datasets
 dataset/training_dataset.csv
 dataset/validation_dataset.csv
 
-# Jupyter Notebook
 .ipynb_checkpoints
-
 
 __pycache__/
