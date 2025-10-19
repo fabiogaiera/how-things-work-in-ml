@@ -1,5 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # How things work under the hood in Machine Learning
 
 ## Section 1 - Dataset Creation
